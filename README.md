@@ -1,5 +1,8 @@
-## Hi there 👋
+### 👋 Hi, I'm Gustavo!
+💻 Passionate about programming, algorithms, and software optimization.
+🎓 Currently honing my skills at [42](https://42.fr/en/homepage/) School.
+🚀 Exploring projects in C and system programming.
 
-My name is Gustavo, and I'm an aspiring developer studying at [42](https://42.fr/en/homepage/) School.
+🔹 Always eager to learn and tackle new challenges!
 
-- 🔭 I’m currently working on developing my skills and understanding of programming and code.
+📌 Check out my latest projects below.
